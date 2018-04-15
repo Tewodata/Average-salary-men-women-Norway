@@ -1,0 +1,2012 @@
+index,job,sector,sex,2015,2016,2017
+110,Commissioned armed forces officers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,56700,57100,60260
+,,,Females,47600,48600,51660
+210,Non-commissioned armed forces officers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,36500,35900,40420
+,,,Females,32200,33700,36820
+310,"Armed forces occupations, other ranks",private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,37100,37400,41490
+,,,Females,35500,34500,37940
+1111,Legislators,private sector and public enterprises,Males,48700,48800,48860
+,,,Females,45500,46900,47480
+,,local government,Males,67000,68400,69070
+,,,Females,64800,66900,67580
+,,central government,Males,,,
+,,,Females,,,
+1112,Senior government officials,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,75800,78400,80580
+,,,Females,,75000,77390
+,,central government,Males,107000,109500,113660
+,,,Females,105200,108200,110310
+1114,Senior officials of special-interest organisations,private sector and public enterprises,Males,60000,61900,63350
+,,,Females,53700,55100,57510
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1120,Managing directors and chief executives,private sector and public enterprises,Males,76000,77500,79160
+,,,Females,60100,62000,64420
+,,local government,Males,71000,73500,75380
+,,,Females,64500,66300,69310
+,,central government,Males,91800,92300,97690
+,,,Females,86400,92300,95250
+1211,Finance managers,private sector and public enterprises,Males,87800,89400,93200
+,,,Females,65000,66700,68930
+,,local government,Males,56800,58500,61140
+,,,Females,53700,54900,56470
+,,central government,Males,,,
+,,,Females,,,
+1212,Human resource managers,private sector and public enterprises,Males,81600,81500,82720
+,,,Females,70400,72700,74670
+,,local government,Males,,,
+,,,Females,,57000,59320
+,,central government,Males,,,
+,,,Females,,,
+1213,Policy and planning managers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,52420
+,,central government,Males,,,
+,,,Females,,,
+1219,Business services and administration managers not elsewhere classified,private sector and public enterprises,Males,74900,76100,78740
+,,,Females,59500,61000,62170
+,,local government,Males,55000,56600,57730
+,,,Females,50800,52100,53200
+,,central government,Males,64700,66100,68230
+,,,Females,59600,60700,63100
+1221,Sales and marketing managers,private sector and public enterprises,Males,70300,71500,73770
+,,,Females,61400,62400,64810
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1222,Advertising and public relations managers,private sector and public enterprises,Males,63900,64700,65360
+,,,Females,56900,58700,61410
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1223,Research and development managers,private sector and public enterprises,Males,79800,80600,80820
+,,,Females,67200,69400,71020
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,72000,73700,75960
+,,,Females,67600,67900,69900
+1311,Agricultural and forestry production managers,private sector and public enterprises,Males,59900,61200,64490
+,,,Females,49000,50700,52710
+,,local government,Males,45900,46000,46780
+,,,Females,45700,45900,46810
+,,central government,Males,,,
+,,,Females,,,
+1312,Aquaculture and fisheries production managers,private sector and public enterprises,Males,57600,58400,64960
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1321,Manufacturing managers,private sector and public enterprises,Males,65800,65900,67840
+,,,Females,64700,66000,68020
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1322,Mining managers,private sector and public enterprises,Males,106100,104900,105270
+,,,Females,100100,100400,101040
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1323,Construction managers,private sector and public enterprises,Males,56700,58100,59230
+,,,Females,56600,57200,57490
+,,local government,Males,48000,49300,50620
+,,,Females,48900,50400,52020
+,,central government,Males,43000,45600,47400
+,,,Females,,,
+1324,"Supply, distribution and related managers",private sector and public enterprises,Males,59700,61100,62670
+,,,Females,59500,60400,61820
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1330,Information and communications technology service managers,private sector and public enterprises,Males,70400,71900,74170
+,,,Females,67000,70400,71460
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1341,Child care services managers,private sector and public enterprises,Males,47900,48500,50680
+,,,Females,46700,47300,49060
+,,local government,Males,55300,56600,57490
+,,,Females,47000,48300,49780
+,,central government,Males,,,
+,,,Females,,,
+1342,Health services managers,private sector and public enterprises,Males,62700,65500,66950
+,,,Females,53700,54100,55520
+,,local government,Males,49700,50900,52200
+,,,Females,46700,48100,49680
+,,central government,Males,72800,73400,75850
+,,,Females,57100,58200,60580
+1343,Aged care services managers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,56200,57100,58680
+,,,Females,53000,54400,55510
+,,central government,Males,50500,51500,53320
+,,,Females,47700,48500,50570
+1344,Social welfare managers,private sector and public enterprises,Males,54900,55600,56460
+,,,Females,47200,50000,49530
+,,local government,Males,,,
+,,,Females,47100,47000,49050
+,,central government,Males,,,
+,,,Females,,,
+1345,Education managers,private sector and public enterprises,Males,52700,53900,55390
+,,,Females,49500,50300,51650
+,,local government,Males,54800,55900,57620
+,,,Females,52500,53800,55380
+,,central government,Males,64200,65100,66850
+,,,Females,58200,59700,62160
+1346,Financial and insurance services branch managers,private sector and public enterprises,Males,89600,91300,94370
+,,,Females,73800,75100,77150
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1349,Professional services managers not elsewhere classified,private sector and public enterprises,Males,69000,69600,70830
+,,,Females,62900,63100,65630
+,,local government,Males,55300,57600,58940
+,,,Females,50300,52300,52770
+,,central government,Males,59600,61300,62640
+,,,Females,55800,57400,61000
+1411,Hotel managers,private sector and public enterprises,Males,46700,50400,50300
+,,,Females,42200,45000,44530
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1412,Restaurant managers,private sector and public enterprises,Males,39300,40900,41110
+,,,Females,35600,37500,37150
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1420,Retail and wholesale trade managers,private sector and public enterprises,Males,49800,51100,52310
+,,,Females,38600,39700,40680
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+1431,"Sports, recreation and cultural centre managers",private sector and public enterprises,Males,49600,50600,52810
+,,,Females,46400,47900,48420
+,,local government,Males,48400,49100,51140
+,,,Females,45100,46300,47360
+,,central government,Males,,,
+,,,Females,,,
+1439,Services managers not elsewhere classified,private sector and public enterprises,Males,58200,58600,59300
+,,,Females,42000,43700,44250
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2111,Physicists and astronomers,private sector and public enterprises,Males,62300,60400,65100
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2112,Meteorologists,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,48200,,50880
+,,,Females,,,
+2113,Chemists,private sector and public enterprises,Males,63200,65200,66870
+,,,Females,58000,61900,62560
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2114,Geologists and geophysicists,private sector and public enterprises,Males,91000,86800,86160
+,,,Females,78300,77000,77350
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,56000,,58040
+,,,Females,,,
+2120,"Mathematicians, actuaries and statisticians",private sector and public enterprises,Males,66400,66600,67240
+,,,Females,56600,56600,59000
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,45700,46000,47090
+,,,Females,42100,42700,44540
+2131,"Biologists, botanists, zoologists and related professionals",private sector and public enterprises,Males,54700,56600,58360
+,,,Females,50600,52300,53650
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,53200,54000,55320
+,,,Females,47500,48500,50130
+2132,"Farming, forestry and fisheries advisers",private sector and public enterprises,Males,53200,53700,55180
+,,,Females,48600,49200,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2133,Environmental protection professionals,private sector and public enterprises,Males,60300,61000,61350
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2141,Industrial and production engineers,private sector and public enterprises,Males,69700,71900,69920
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,47100,47900,48590
+,,,Females,,,
+2142,Civil engineers,private sector and public enterprises,Males,62200,63800,64850
+,,,Females,56400,58200,59680
+,,local government,Males,47400,48300,50470
+,,,Females,47100,47500,49560
+,,central government,Males,50400,50900,53060
+,,,Females,48500,48800,51340
+2144,Mechanical engineers,private sector and public enterprises,Males,64900,65300,66830
+,,,Females,55600,56300,58870
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,49200,49700,51660
+,,,Females,,,
+2145,Chemical engineers,private sector and public enterprises,Males,65300,68100,68710
+,,,Females,57500,59500,60940
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2146,"Mining engineers, metallurgists and related professionals",private sector and public enterprises,Males,78600,79200,80550
+,,,Females,67600,68900,70690
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,62200,63400,62780
+,,,Females,,62900,61690
+2149,Engineering professionals not elsewhere classified,private sector and public enterprises,Males,69300,71000,71550
+,,,Females,59500,61600,63610
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,55200,55800,57470
+,,,Females,51700,52300,53990
+2151,Electrical engineers,private sector and public enterprises,Males,66200,67700,69380
+,,,Females,62200,62200,64410
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2152,Electronics engineers,private sector and public enterprises,Males,64200,65400,66290
+,,,Females,58800,59800,60240
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,48600,50000,51370
+,,,Females,,,
+2153,Telecommunications engineers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,54900,55710
+,,,Females,,,
+2161,Building architects,private sector and public enterprises,Males,57800,59600,60790
+,,,Females,52100,53900,55400
+,,local government,Males,48500,48100,50330
+,,,Females,47200,47600,49890
+,,central government,Males,,,
+,,,Females,,,
+2162,Landscape architects,private sector and public enterprises,Males,54800,57100,58140
+,,,Females,51900,53300,54560
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2163,Product and garment designers,private sector and public enterprises,Males,49300,50100,50080
+,,,Females,43300,44600,45800
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2164,Town and traffic planners,private sector and public enterprises,Males,54200,55300,57390
+,,,Females,50000,51000,52950
+,,local government,Males,45400,46600,48020
+,,,Females,43700,45000,45900
+,,central government,Males,,,
+,,,Females,,,
+2165,Cartographers and surveyors,private sector and public enterprises,Males,48000,48900,50050
+,,,Females,,,
+,,local government,Males,46900,47700,49360
+,,,Females,45800,47000,49610
+,,central government,Males,,,
+,,,Females,,,
+2166,Graphic and multimedia designers,private sector and public enterprises,Males,42800,43700,45370
+,,,Females,40400,40600,42160
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2211,Generalist medical practitioners,private sector and public enterprises,Males,67100,67800,67480
+,,,Females,62700,63900,66880
+,,local government,Males,61700,63100,67120
+,,,Females,56100,58000,59670
+,,central government,Males,73600,72800,75930
+,,,Females,59300,59100,62240
+2212,Specialist medical practitioners,private sector and public enterprises,Males,82600,84100,86960
+,,,Females,77600,81700,83250
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,81800,81300,85800
+,,,Females,70800,70300,74880
+2221,Nursing professionals,private sector and public enterprises,Males,49500,50200,50770
+,,,Females,45800,46300,48290
+,,local government,Males,43400,44700,45740
+,,,Females,41400,42400,43440
+,,central government,Males,46800,48000,49320
+,,,Females,44400,45300,46770
+2222,Midwifery professionals,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,43300,43600,44880
+,,central government,Males,,,
+,,,Females,47900,48200,50180
+2223,Nurses,private sector and public enterprises,Males,47500,48500,47020
+,,,Females,39200,41800,42660
+,,local government,Males,42200,42600,43600
+,,,Females,40100,40800,41860
+,,central government,Males,41500,42500,43580
+,,,Females,38900,39700,40920
+2224,Registered Nurses for the Mentally subnormal (RNMS),private sector and public enterprises,Males,39300,39700,41290
+,,,Females,38500,39000,40590
+,,local government,Males,40600,41500,42790
+,,,Females,39300,40200,41070
+,,central government,Males,43100,43800,45420
+,,,Females,41500,42100,43070
+2250,Veterinarians,private sector and public enterprises,Males,50800,53100,54900
+,,,Females,45300,46400,48680
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2261,Dentists,private sector and public enterprises,Males,63400,64400,66720
+,,,Females,59000,58900,60760
+,,local government,Males,61500,61900,64700
+,,,Females,54800,55800,57190
+,,central government,Males,,,
+,,,Females,,,
+2262,Pharmacists,private sector and public enterprises,Males,58700,59300,60980
+,,,Females,53500,55000,56260
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2264,Physiotherapists,private sector and public enterprises,Males,42800,44100,45870
+,,,Females,39000,40400,42030
+,,local government,Males,37200,38300,38820
+,,,Females,36600,37300,38390
+,,central government,Males,37900,38400,39080
+,,,Females,37700,39000,39990
+2265,Dieticians and nutritionists,private sector and public enterprises,Males,,56700,56080
+,,,Females,47900,48600,48980
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,42800,44000,44430
+2266,Audiologists and speech therapists,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,35800,37700,37360
+2267,Ergotherapists,private sector and public enterprises,Males,,,
+,,,Females,37500,38400,39360
+,,local government,Males,38400,38100,38750
+,,,Females,36400,37200,38220
+,,central government,Males,,,
+,,,Females,37200,38600,39440
+2310,University and higher education teachers,private sector and public enterprises,Males,52100,52800,53890
+,,,Females,45700,46800,47740
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,49600,50300,51070
+,,,Females,45800,46500,47320
+2320,Vocational education teachers,private sector and public enterprises,Males,42900,43000,44380
+,,,Females,,,
+,,local government,Males,42600,43400,43570
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2330,Secondary education teachers,private sector and public enterprises,Males,45800,46400,47900
+,,,Females,44700,45400,46760
+,,local government,Males,45000,46000,46950
+,,,Females,44700,45700,46500
+,,central government,Males,,,
+,,,Females,,,
+2341,Primary school teachers,private sector and public enterprises,Males,39700,40800,41520
+,,,Females,39100,40200,41220
+,,local government,Males,42600,43600,44270
+,,,Females,41700,42700,43360
+,,central government,Males,,,
+,,,Females,,,
+2342,Early childhood teachers,private sector and public enterprises,Males,36100,36400,37490
+,,,Females,36400,36900,38290
+,,local government,Males,36700,37400,38800
+,,,Females,36900,37800,38690
+,,central government,Males,,,
+,,,Females,,,
+2351,Education methods specialists,private sector and public enterprises,Males,45400,46700,47710
+,,,Females,40300,41100,42900
+,,local government,Males,50800,51400,52530
+,,,Females,48400,49600,50670
+,,central government,Males,,,
+,,,Females,42900,42900,
+2352,Special needs teachers,private sector and public enterprises,Males,,,
+,,,Females,,40100,41160
+,,local government,Males,,,
+,,,Females,40000,41400,42590
+,,central government,Males,,,
+,,,Females,43300,44100,45140
+2354,Other music teachers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,41600,42000,43020
+,,,Females,40800,41600,43200
+,,central government,Males,,,
+,,,Females,,,
+2359,Teaching professionals not elsewhere classified,private sector and public enterprises,Males,47200,48000,49820
+,,,Females,39700,41000,41840
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,44400,45800,46590
+2411,Accountants,private sector and public enterprises,Males,61100,61700,63860
+,,,Females,51600,53500,54900
+,,local government,Males,45200,45800,48010
+,,,Females,40000,41100,42330
+,,central government,Males,44600,45600,47090
+,,,Females,41300,42100,43080
+2412,Financial and investment advisers,private sector and public enterprises,Males,65400,66300,67030
+,,,Females,51500,53100,53620
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2413,Financial analysts,private sector and public enterprises,Males,62700,63500,65920
+,,,Females,52000,53600,55120
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,48600,49500,50470
+,,,Females,45400,46100,46770
+2421,Management and organisation analysts,private sector and public enterprises,Males,62300,65000,65130
+,,,Females,50100,51300,52570
+,,local government,Males,43500,43900,45230
+,,,Females,41100,42300,43170
+,,central government,Males,44600,46100,46830
+,,,Females,40600,41300,42470
+2422,Policy administration professionals,private sector and public enterprises,Males,56100,57700,60990
+,,,Females,47300,48400,50090
+,,local government,Males,46000,46900,48200
+,,,Females,42200,43300,44760
+,,central government,Males,47700,48300,49600
+,,,Females,42700,43200,44470
+2423,Personnel and careers professionals,private sector and public enterprises,Males,58800,59200,60160
+,,,Females,51100,52400,54150
+,,local government,Males,46300,47400,47640
+,,,Females,42600,44000,45300
+,,central government,Males,50100,50800,52670
+,,,Females,45000,45800,47310
+2424,Training and staff development professionals,private sector and public enterprises,Males,51100,52000,53920
+,,,Females,46700,48500,51390
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2431,Advertising and marketing professionals,private sector and public enterprises,Males,50900,50800,53930
+,,,Females,44000,45100,46430
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2432,Public relations professionals,private sector and public enterprises,Males,52200,52300,54330
+,,,Females,47900,48700,49730
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,46100,47000,48660
+,,,Females,44100,45000,46570
+2433,Technical and medical sales professionals (excluding ICT),private sector and public enterprises,Males,57600,58000,59230
+,,,Females,54200,53700,56690
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2434,Information and communications technology sales professionals,private sector and public enterprises,Males,55600,58300,61950
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2511,Systems analysts,private sector and public enterprises,Males,58800,60300,61770
+,,,Females,55300,56900,58520
+,,local government,Males,46200,46800,48330
+,,,Females,41700,,
+,,central government,Males,49200,50500,52280
+,,,Females,46900,47800,49750
+2512,Software developers,private sector and public enterprises,Males,54600,56200,56950
+,,,Females,49000,50700,52750
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2519,Software and applications developers and analysts not elsewhere classified,private sector and public enterprises,Males,55100,57400,58510
+,,,Females,50200,52000,53700
+,,local government,Males,42600,43000,43840
+,,,Females,,,
+,,central government,Males,43300,44500,45330
+,,,Females,,43200,43300
+2521,Database designers and administrators,private sector and public enterprises,Males,53900,54500,55760
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2522,Systems administrators,private sector and public enterprises,Males,53800,53200,55030
+,,,Females,47300,46700,49510
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2529,Database and network professionals not elsewhere classified,private sector and public enterprises,Males,57700,58200,60070
+,,,Females,55100,55100,56790
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2611,Lawyers,private sector and public enterprises,Males,71800,73300,74680
+,,,Females,60300,61100,63520
+,,local government,Males,,,63630
+,,,Females,57800,58400,58040
+,,central government,Males,53100,55600,57200
+,,,Females,50000,51600,52960
+2612,Judges,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,75500,78900,80770
+,,,Females,68600,71400,74150
+2619,Legal professionals not elsewhere classified,private sector and public enterprises,Males,71600,72000,72720
+,,,Females,59700,59900,62000
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,43900,,
+2621,Archivists and curators,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,43200,43400,44370
+,,,Females,40600,41500,42690
+,,central government,Males,43800,45500,46800
+,,,Females,41400,41800,43790
+2622,Librarians and related information professionals,private sector and public enterprises,Males,,,
+,,,Females,41900,42300,42640
+,,local government,Males,38000,38400,39340
+,,,Females,38000,39300,40000
+,,central government,Males,38000,39000,40090
+,,,Females,39400,40000,40910
+2631,Economics,private sector and public enterprises,Males,75300,76600,78310
+,,,Females,62500,61900,61920
+,,local government,Males,48500,50200,51070
+,,,Females,46000,46400,48160
+,,central government,Males,,,
+,,,Females,,,
+2632,"Sociologists, anthropologists and related professionals",private sector and public enterprises,Males,53700,54800,58430
+,,,Females,49000,50500,53120
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2633,"Philosophers, historians and political scientists",private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2634,Psychologists,private sector and public enterprises,Males,54000,55700,58080
+,,,Females,50400,51400,52440
+,,local government,Males,48100,48900,50510
+,,,Females,45000,45800,47270
+,,central government,Males,52200,52800,54900
+,,,Females,48600,49100,51550
+2635,Social work and counselling professionals,private sector and public enterprises,Males,40600,42000,43690
+,,,Females,40300,41600,42980
+,,local government,Males,40000,41100,42400
+,,,Females,37700,38600,39830
+,,central government,Males,42900,44400,44610
+,,,Females,41500,42600,43720
+2636,Religious professionals,private sector and public enterprises,Males,42100,42000,43260
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,40500,40200,42470
+,,central government,Males,51800,52500,54150
+,,,Females,49100,50000,51970
+2641,Authors and related writers,private sector and public enterprises,Males,51900,54000,55470
+,,,Females,47500,49400,50350
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2642,Journalists,private sector and public enterprises,Males,48300,49300,50460
+,,,Females,44400,45500,46880
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2643,"Translators, interpreters and other linguists",private sector and public enterprises,Males,,,
+,,,Females,38600,39500,39750
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2652,"Musicians, singers and composers",private sector and public enterprises,Males,37600,40900,40460
+,,,Females,,,
+,,local government,Males,42800,44200,45440
+,,,Females,41600,42900,44050
+,,central government,Males,46600,49000,50030
+,,,Females,45200,47100,49590
+2653,Dancers and choreographers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2654,"Film, stage and related directors and producers",private sector and public enterprises,Males,50100,50600,52720
+,,,Females,47000,47300,49560
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+2655,Actors,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,39500,40300,40850
+,,,Females,,,
+2656,"Announcers on radio, television and other media",private sector and public enterprises,Males,50800,53900,57040
+,,,Females,46600,48800,51250
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3112,Civil engineering technicians,private sector and public enterprises,Males,52600,54200,55470
+,,,Females,48800,51000,51780
+,,local government,Males,45500,46500,47930
+,,,Females,44400,45200,46930
+,,central government,Males,42800,43300,44090
+,,,Females,40700,41000,41640
+3113,Electrical engineering technicians,private sector and public enterprises,Males,54000,55100,56840
+,,,Females,49500,51200,52020
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3114,Electronics engineering technicians,private sector and public enterprises,Males,53100,54200,55200
+,,,Females,52200,54200,55610
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,46200,50100,48910
+,,,Females,,,
+3115,Mechanical engineering technicians,private sector and public enterprises,Males,50200,50300,51640
+,,,Females,48000,48700,50880
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3116,Chemical engineering technicians,private sector and public enterprises,Males,60000,61900,62940
+,,,Females,48000,48100,49900
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,39370
+3117,Mining and metallurgical technicians,private sector and public enterprises,Males,66800,67100,68170
+,,,Females,59100,61400,63720
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3118,Draughtspersons,private sector and public enterprises,Males,46600,47400,48970
+,,,Females,44400,45000,46230
+,,local government,Males,43800,44000,46100
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3119,Physical and engineering science technicians not elsewhere classified,private sector and public enterprises,Males,53200,54000,55050
+,,,Females,50500,51900,53290
+,,local government,Males,44500,45900,47500
+,,,Females,43600,44800,46580
+,,central government,Males,44600,45300,46600
+,,,Females,41400,41900,43310
+3122,Manufacturing supervisors,private sector and public enterprises,Males,43400,44200,45710
+,,,Females,42000,42900,44000
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3123,Construction supervisors,private sector and public enterprises,Males,49700,50600,51800
+,,,Females,49700,50200,52190
+,,local government,Males,38500,39800,40480
+,,,Females,,,
+,,central government,Males,45900,48000,46810
+,,,Females,,,
+3131,Power production plant operators,private sector and public enterprises,Males,45300,46600,49090
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3133,Chemical processing plant controllers,private sector and public enterprises,Males,48800,49600,50750
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3134,Petroleum and natural gas refining plant operators,private sector and public enterprises,Males,63600,64600,63940
+,,,Females,56200,57300,55090
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3135,Metal production process controllers,private sector and public enterprises,Males,43700,45000,44010
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3141,Life science technicians (excluding medical),private sector and public enterprises,Males,39900,41000,41530
+,,,Females,39400,39800,41120
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,35300,36100,37200
+,,,Females,33800,34000,34620
+3142,Agricultural technicians,private sector and public enterprises,Males,42100,44300,46300
+,,,Females,,,44230
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3143,Forestry technicians,private sector and public enterprises,Males,42900,43200,44670
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3151,Ships¿ engineers,private sector and public enterprises,Males,62200,61400,62160
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3152,Ships¿ deck officers and pilots,private sector and public enterprises,Males,60600,60000,60450
+,,,Females,47900,48200,49470
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,61100,62800,65410
+,,,Females,,,
+3153,Aircraft pilots and related associate professionals,private sector and public enterprises,Males,82500,83100,84450
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3154,Air traffic controllers,private sector and public enterprises,Males,77400,79700,84170
+,,,Females,64800,66900,70170
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3211,Medical imaging and therapeutic equipment technicians,private sector and public enterprises,Males,45800,,47010
+,,,Females,40000,41000,42090
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,41000,41600,43140
+,,,Females,39100,39500,41140
+3212,Medical and pathology laboratory technicians,private sector and public enterprises,Males,43200,44100,44580
+,,,Females,41500,42500,44180
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,40600,41300,42300
+,,,Females,38000,38800,39890
+3213,Pharmaceutical technicians and assistants,private sector and public enterprises,Males,39800,41400,41860
+,,,Females,40800,41400,42170
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3214,Medical and dental prosthesis technicians,private sector and public enterprises,Males,41100,42100,44010
+,,,Females,37200,39200,40250
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3240,Veterinary technicians and assistants,private sector and public enterprises,Males,,,
+,,,Females,28200,28800,30110
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3251,Dental assistants and therapists,private sector and public enterprises,Males,,,
+,,,Females,37600,37800,39610
+,,local government,Males,,,
+,,,Females,36500,37400,38720
+,,central government,Males,,,
+,,,Females,,,
+3254,Dispensing opticians,private sector and public enterprises,Males,44500,46800,47280
+,,,Females,39800,42000,42920
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3256,Medical assistants,private sector and public enterprises,Males,,,
+,,,Females,32300,33000,33910
+,,local government,Males,,,
+,,,Females,33100,33800,34530
+,,central government,Males,,,
+,,,Females,31800,32700,33310
+3257,Environmental and occupational health inspectors and associates,private sector and public enterprises,Males,63000,62400,64550
+,,,Females,55100,55200,56680
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,42600,42900,44100
+,,,Females,41200,41400,42700
+3258,Ambulance workers,private sector and public enterprises,Males,47200,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,40400,41400,42550
+,,,Females,35800,37100,38210
+3259,Health associate professionals not elsewhere classified,private sector and public enterprises,Males,37100,37800,39250
+,,,Females,35900,36800,38270
+,,local government,Males,37800,38500,39350
+,,,Females,39600,40900,40850
+,,central government,Males,,,
+,,,Females,,,
+3311,Securities and finance dealers and brokers,private sector and public enterprises,Males,105900,112000,109280
+,,,Females,57100,59200,60340
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3312,Credit and loans officers,private sector and public enterprises,Males,53600,55300,56870
+,,,Females,42500,43400,44720
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3313,Accounting associate professionals,private sector and public enterprises,Males,51300,52200,53610
+,,,Females,43900,44900,46340
+,,local government,Males,40200,42500,42700
+,,,Females,38000,39800,40690
+,,central government,Males,,,
+,,,Females,39600,41000,42180
+3315,Valuers and loss assessors,private sector and public enterprises,Males,46800,46800,48490
+,,,Females,39100,38800,40670
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3321,Insurance representatives,private sector and public enterprises,Males,55800,57800,57780
+,,,Females,46200,48300,48700
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3322,Commercial sales representatives,private sector and public enterprises,Males,49400,50700,52130
+,,,Females,43900,45000,46510
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3323,Buyers,private sector and public enterprises,Males,51200,51600,53240
+,,,Females,44800,45600,47360
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3324,Trade brokers,private sector and public enterprises,Males,104600,91800,103770
+,,,Females,59400,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3331,Clearing and forwarding agents,private sector and public enterprises,Males,45200,45900,47110
+,,,Females,39800,40500,41240
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3332,Conference and event planners,private sector and public enterprises,Males,51700,50000,53810
+,,,Females,43300,43300,44570
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3333,Employment agents and contractors,private sector and public enterprises,Males,39600,39200,40350
+,,,Females,37600,38100,38740
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3334,Real estate agents and property mangers,private sector and public enterprises,Males,65300,64400,65820
+,,,Females,51500,51800,53950
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3341,Office supervisors,private sector and public enterprises,Males,56000,57500,58980
+,,,Females,45900,46700,48460
+,,local government,Males,52500,53600,55610
+,,,Females,46600,48100,49610
+,,central government,Males,45300,46900,
+,,,Females,44900,45700,47230
+3342,Legal secretaries,private sector and public enterprises,Males,,,
+,,,Females,38600,40000,41210
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3343,Administrative and executive secretaries,private sector and public enterprises,Males,53500,53500,54120
+,,,Females,42400,43400,44490
+,,local government,Males,38500,39900,40930
+,,,Females,36600,37600,38500
+,,central government,Males,40700,41300,42270
+,,,Females,38300,39000,39970
+3351,Customs and border inspectors,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,38900,38900,39770
+,,,Females,36300,36800,37400
+3352,Government tax and excise officials,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,38900,39200,40250
+,,,Females,36400,36900,37750
+3353,Government social benefits officials,private sector and public enterprises,Males,40700,40700,41530
+,,,Females,38600,39200,39340
+,,local government,Males,,,
+,,,Females,36000,37100,37760
+,,central government,Males,35700,36100,36870
+,,,Females,34900,35400,36320
+3355,Police inspectors and detectives,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,47700,48900,49090
+,,,Females,43300,44500,44650
+3359,Regulatory government associate professionals not elsewhere classified,private sector and public enterprises,Males,43400,44200,45210
+,,,Females,38200,39500,39900
+,,local government,Males,38400,39500,40640
+,,,Females,36600,37600,38600
+,,central government,Males,40400,41400,43410
+,,,Females,37100,38000,39830
+3412,Social work associate professionals,private sector and public enterprises,Males,38000,38700,39990
+,,,Females,37800,38300,39790
+,,local government,Males,38300,39300,40440
+,,,Females,37000,38100,39060
+,,central government,Males,40400,41500,42670
+,,,Females,39300,40700,41270
+3413,Religious associate professionals,private sector and public enterprises,Males,35700,36500,37470
+,,,Females,33600,34800,35580
+,,local government,Males,40000,40600,42350
+,,,Females,38500,39200,40630
+,,central government,Males,,,
+,,,Females,,,
+3421,Athletes and sports players,private sector and public enterprises,Males,46500,44500,44440
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3422,"Sport coaches, instructors and officials",private sector and public enterprises,Males,40200,41700,42210
+,,,Females,34600,35500,35010
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3423,Fitness and recreation instructors and program leaders,private sector and public enterprises,Males,33800,36000,36710
+,,,Females,33500,33700,35960
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3431,Photographers,private sector and public enterprises,Males,42300,42400,43410
+,,,Females,33400,35100,36680
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3432,Interior designers and decorators,private sector and public enterprises,Males,42800,43700,43660
+,,,Females,37000,38600,39250
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3434,Chefs,private sector and public enterprises,Males,36200,37300,37860
+,,,Females,32700,33600,34600
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3439,Other artistic and cultural associate professionals,private sector and public enterprises,Males,38900,39500,40270
+,,,Females,35700,36800,37730
+,,local government,Males,37400,39000,40420
+,,,Females,36100,37400,38430
+,,central government,Males,37800,39600,41210
+,,,Females,36600,38000,39500
+3511,Information and communication technology operations technicians,private sector and public enterprises,Males,50800,51800,52870
+,,,Females,48300,49400,50570
+,,local government,Males,34200,34500,34510
+,,,Females,36800,35200,37080
+,,central government,Males,43000,43600,44460
+,,,Females,43300,43400,44940
+3512,Information and communication technology user support technicians,private sector and public enterprises,Males,41400,42700,43660
+,,,Females,38700,39800,41330
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,40300,41200,42340
+,,,Females,,,
+3513,Computer network and systems technicians,private sector and public enterprises,Males,50800,52100,54740
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3514,Web technicians,private sector and public enterprises,Males,49900,51800,53410
+,,,Females,44100,45000,45740
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3521,Broadcasting and audio-visual technicians,private sector and public enterprises,Males,41400,42600,43950
+,,,Females,39700,38900,40790
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+3522,Telecommunications engineering technicians,private sector and public enterprises,Males,42900,43000,42560
+,,,Females,37100,38500,38730
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4110,General office clerks,private sector and public enterprises,Males,40200,41200,42150
+,,,Females,36800,37700,38580
+,,local government,Males,33200,33900,34700
+,,,Females,33500,34500,35260
+,,central government,Males,36200,35800,36280
+,,,Females,33600,34100,34840
+4132,Data entry clerks,private sector and public enterprises,Males,,,44140
+,,,Females,36200,38200,39140
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4211,Bank tellers and related clerks,private sector and public enterprises,Males,36000,36500,37090
+,,,Females,35500,36800,37260
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4212,"Bookmakers, croupiers and related gaming workers",private sector and public enterprises,Males,,,
+,,,Females,28700,27900,30140
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4214,Debt collectors and related clerks,private sector and public enterprises,Males,39900,39400,41580
+,,,Females,37400,37800,38960
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4221,Travel consultants and clerks,private sector and public enterprises,Males,39600,39800,41110
+,,,Females,36100,36700,37660
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4222,Contact centre information clerks,private sector and public enterprises,Males,36000,37000,37590
+,,,Females,35400,36400,37170
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4223,Telephone switchboard operators,private sector and public enterprises,Males,35200,37000,37660
+,,,Females,32800,33800,34590
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4224,Hotel receptionists,private sector and public enterprises,Males,28700,29400,30060
+,,,Females,28900,29500,30080
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4225,Enquiry clerks,private sector and public enterprises,Males,,37600,37950
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4226,Receptionists (general),private sector and public enterprises,Males,36700,37900,39010
+,,,Females,31700,33000,33940
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4227,Survey and market research interviewers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4229,Client information workers not elsewhere classified,private sector and public enterprises,Males,37700,39000,38800
+,,,Females,36900,37300,38620
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4311,Accounting and bookkeeping clerks,private sector and public enterprises,Males,43100,43500,44490
+,,,Females,39400,40500,41410
+,,local government,Males,,,
+,,,Females,36200,37600,39370
+,,central government,Males,,,
+,,,Females,,,
+4312,"Statistical, finance and insurance clerks",private sector and public enterprises,Males,,,
+,,,Females,40300,44100,42620
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4313,Payroll clerks,private sector and public enterprises,Males,42700,43400,45830
+,,,Females,41100,42000,43320
+,,local government,Males,,,
+,,,Females,37000,37900,39190
+,,central government,Males,,,
+,,,Females,,,
+4321,Stock clerks,private sector and public enterprises,Males,35800,36700,37660
+,,,Females,34200,35200,36110
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,34400,35100,35620
+,,,Females,,,
+4322,Production clerks,private sector and public enterprises,Males,42800,43600,45110
+,,,Females,40600,41300,42800
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,34100,34400,35500
+,,,Females,,,
+4323,Transport clerks,private sector and public enterprises,Males,39300,39700,40540
+,,,Females,36500,38100,38620
+,,local government,Males,38100,37900,38220
+,,,Females,,,
+,,central government,Males,47100,49200,46610
+,,,Females,41400,44000,42190
+4411,Library clerks,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4412,Mail carriers and sorting clerks,private sector and public enterprises,Males,33200,33900,34620
+,,,Females,33300,34200,34980
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+4415,Filing and copying clerks,private sector and public enterprises,Males,,,
+,,,Females,40100,39700,41010
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,37800,39100,39620
+,,,Females,37400,37600,38370
+4416,Personnel clerks,private sector and public enterprises,Males,,,
+,,,Females,42900,44100,45310
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5111,Travel attendants and travel stewards,private sector and public enterprises,Males,34700,34300,36120
+,,,Females,32300,31900,33130
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5112,Transport conductors,private sector and public enterprises,Males,46800,47600,50600
+,,,Females,43700,44800,48040
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5113,Travel guides,private sector and public enterprises,Males,32400,32800,32250
+,,,Females,30700,30800,32240
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5120,Cooks,private sector and public enterprises,Males,33100,33300,33470
+,,,Females,30700,31300,31310
+,,local government,Males,31300,31800,31520
+,,,Females,32000,32600,33460
+,,central government,Males,33200,33800,34300
+,,,Females,32100,32900,33190
+5131,Waiters,private sector and public enterprises,Males,27800,28500,29330
+,,,Females,26900,27500,28430
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5132,Bartenders,private sector and public enterprises,Males,28000,29500,29870
+,,,Females,25500,26600,27920
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5141,Hairdressers,private sector and public enterprises,Males,30500,31500,31650
+,,,Females,26900,28000,29140
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5142,Beauticians and related workers,private sector and public enterprises,Males,,,
+,,,Females,30500,32400,33000
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5151,"Cleaning and housekeeping supervisors in offices, hotels and other local kinds of activity units",private sector and public enterprises,Males,35500,37700,37540
+,,,Females,33600,35000,36290
+,,local government,Males,,,
+,,,Females,34400,35600,35860
+,,central government,Males,,,
+,,,Females,,,
+5152,Domestic housekeepers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5153,Building caretakers,private sector and public enterprises,Males,36900,37500,38790
+,,,Females,37000,37600,38390
+,,local government,Males,34100,34900,35650
+,,,Females,33500,34600,35470
+,,central government,Males,35700,36400,37180
+,,,Females,,,34600
+5163,Undertakers and embalmers,private sector and public enterprises,Males,39700,40700,41570
+,,,Females,37200,38800,40020
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5164,Pet groomers and animal care workers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5165,Driving instructors,private sector and public enterprises,Males,40200,41400,42130
+,,,Females,37300,38400,39990
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5169,Personal services workers not elsewhere classified,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,42600,40100,44320
+,,,Females,,,
+5211,Stall and market salespersons,private sector and public enterprises,Males,43300,41600,41300
+,,,Females,,35700,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5222,Shop supervisors,private sector and public enterprises,Males,38100,39600,40070
+,,,Females,35100,35800,36550
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5223,Shop sales assistants,private sector and public enterprises,Males,33400,34300,35130
+,,,Females,30200,31100,31820
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5230,Cashiers and ticket clerks,private sector and public enterprises,Males,,,
+,,,Females,35800,36100,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5242,Sales demonstrators,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5244,Contact centre salespersons,private sector and public enterprises,Males,37800,38400,38570
+,,,Females,35900,36200,36770
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5245,Service station attendants,private sector and public enterprises,Males,29600,30500,32130
+,,,Females,27500,28000,28330
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5246,Food service counter attendants,private sector and public enterprises,Males,27600,28300,29030
+,,,Females,28100,28800,29590
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5249,Sales workers not elsewhere classified,private sector and public enterprises,Males,35200,36600,37200
+,,,Females,33600,34500,35600
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+5311,Child care workers,private sector and public enterprises,Males,29300,29900,30960
+,,,Females,29400,30000,30980
+,,local government,Males,29500,30300,30740
+,,,Females,29600,30400,31010
+,,central government,Males,36800,35800,37170
+,,,Females,33800,33100,35090
+5312,Teachers¿ aides,private sector and public enterprises,Males,,,
+,,,Females,28900,29300,30070
+,,local government,Males,29500,30400,30900
+,,,Females,29400,30000,30700
+,,central government,Males,,,
+,,,Females,,,
+5321,Health care assistants,private sector and public enterprises,Males,33400,33900,35060
+,,,Females,33200,33600,34660
+,,local government,Males,35000,35700,36440
+,,,Females,34300,34900,35570
+,,central government,Males,37500,38100,39580
+,,,Females,34400,34800,35710
+5322,Home-based personal care workers,private sector and public enterprises,Males,30300,31000,31880
+,,,Females,28700,28800,30750
+,,local government,Males,32600,32700,33950
+,,,Females,32200,32700,33570
+,,central government,Males,,,
+,,,Females,,,
+5329,Personal care workers in health services not elsewhere classified,private sector and public enterprises,Males,32800,34200,35730
+,,,Females,33200,34200,35430
+,,local government,Males,32500,33200,34150
+,,,Females,31600,32000,33000
+,,central government,Males,32800,33500,34740
+,,,Females,31000,31900,32970
+5411,Fire-fighters,private sector and public enterprises,Males,41900,46100,48900
+,,,Females,,,
+,,local government,Males,44100,45100,46080
+,,,Females,,,
+,,central government,Males,50600,,
+,,,Females,,,
+5413,Prison guards,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,40100,40600,41950
+,,,Females,37900,38200,39460
+5414,Security guards,private sector and public enterprises,Males,33300,34000,34320
+,,,Females,31100,31600,31970
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,40500,40400,41230
+,,,Females,,,
+5419,Protective services workers not elsewhere classified,private sector and public enterprises,Males,31600,31300,32560
+,,,Females,30700,31300,31640
+,,local government,Males,33100,34700,35240
+,,,Females,,33100,34200
+,,central government,Males,,,
+,,,Females,,,
+6113,"Gardeners, horticultural and nursery growers",private sector and public enterprises,Males,31400,32600,33060
+,,,Females,27600,28600,29040
+,,local government,Males,32600,33000,33540
+,,,Females,31700,32300,32940
+,,central government,Males,,,
+,,,Females,,,
+6121,Livestock and dairy producers,private sector and public enterprises,Males,28400,28800,29760
+,,,Females,22600,23600,24040
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+6122,Poultry producers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+6130,Mixed crop and animal producers,private sector and public enterprises,Males,26800,27400,28050
+,,,Females,26100,26100,26620
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+6210,Forestry and related workers,private sector and public enterprises,Males,31600,33100,33300
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+6221,Aquaculture workers,private sector and public enterprises,Males,40500,41500,43960
+,,,Females,35500,36700,38460
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+6222,Fishery workers,private sector and public enterprises,Males,41800,37000,36200
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7112,Bricklayers and related workers,private sector and public enterprises,Males,34200,35500,36370
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7113,"Stonemasons, stone cutters, splitters and carvers",private sector and public enterprises,Males,37100,37300,38370
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7114,"Concrete placers, concrete finishers and related workers",private sector and public enterprises,Males,37700,38400,39500
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7115,Carpenters and joiners,private sector and public enterprises,Males,33200,34200,35260
+,,,Females,30500,30700,31020
+,,local government,Males,33500,34100,34470
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7119,Building frame and related trades workers not elsewhere classified,private sector and public enterprises,Males,35000,35100,35560
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7121,Roofers,private sector and public enterprises,Males,33900,34400,36350
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7122,Floor layers and tile setters,private sector and public enterprises,Males,34000,34900,36120
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7124,Insulation workers,private sector and public enterprises,Males,35600,35700,37270
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7125,Glaziers,private sector and public enterprises,Males,33500,34600,35890
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7126,Plumbers and pipe fitters,private sector and public enterprises,Males,36900,38200,39470
+,,,Females,31700,32500,34590
+,,local government,Males,36100,37300,38140
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7127,Air conditioning and refrigeration mechanics,private sector and public enterprises,Males,39800,41300,41760
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7131,Painters and related workers,private sector and public enterprises,Males,33500,33900,34960
+,,,Females,31600,32200,33780
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7132,Spray painters and varnishers,private sector and public enterprises,Males,34600,35100,35580
+,,,Females,,,32890
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7133,Building structure cleaners,private sector and public enterprises,Males,34600,33800,34150
+,,,Females,,,
+,,local government,Males,34400,35200,35930
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7211,Metal moulders and coremakers,private sector and public enterprises,Males,32400,33600,35080
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7212,Welders and flame cutters,private sector and public enterprises,Males,36400,37100,37610
+,,,Females,34800,35300,35730
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7213,Sheet metal workers,private sector and public enterprises,Males,34600,35500,37010
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7214,Structural metal preparers and erectors,private sector and public enterprises,Males,34400,35000,35740
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7215,Riggers and cable splicers,private sector and public enterprises,Males,44500,45800,43700
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7222,Toolmakers and related workers,private sector and public enterprises,Males,37100,37400,38030
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7223,Metal working machine tool setters and operators,private sector and public enterprises,Males,34900,35600,36270
+,,,Females,31400,32600,34580
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7231,Motor vehicle mechanics and repairers,private sector and public enterprises,Males,33500,34600,35360
+,,,Females,26100,26100,27840
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,41600,42000,43520
+,,,Females,,,
+7232,Aircraft engine mechanics and repairers,private sector and public enterprises,Males,52800,52900,54610
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,44500,,
+,,,Females,,,
+7233,Agricultural and industrial machinery mechanics and repairers,private sector and public enterprises,Males,38900,39300,40340
+,,,Females,35100,35300,37850
+,,local government,Males,35000,34800,36310
+,,,Females,,,
+,,central government,Males,30600,31100,28300
+,,,Females,27600,28000,28010
+7311,Precision-instrument makers and repairers,private sector and public enterprises,Males,37200,38500,43020
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7313,Jewellery and precious metal workers,private sector and public enterprises,Males,34500,35000,35560
+,,,Females,33600,33700,34580
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7318,"Handicraft workers in textile, leather and related materials",private sector and public enterprises,Males,,,
+,,,Females,,,32500
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7321,Pre-press technicians,private sector and public enterprises,Males,39100,39500,38870
+,,,Females,39500,39000,38180
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7322,Printers,private sector and public enterprises,Males,37400,38200,38960
+,,,Females,31900,31700,31970
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7323,Print finishing and binding workers,private sector and public enterprises,Males,31700,32600,31450
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7411,Building and related electricians,private sector and public enterprises,Males,38500,39500,40830
+,,,Females,30800,32400,32880
+,,local government,Males,34900,35800,36870
+,,,Females,,,
+,,central government,Males,35800,37100,38180
+,,,Females,,,
+7412,Electrical mechanics and fitters,private sector and public enterprises,Males,44200,44900,46210
+,,,Females,32700,32300,33460
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7413,Electrical line installers and repairers,private sector and public enterprises,Males,38200,39900,41270
+,,,Females,29600,32500,32710
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7421,Electronics mechanics and servicers,private sector and public enterprises,Males,38200,38700,39630
+,,,Females,40100,,42640
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7422,Information and communications technology installers and servicers,private sector and public enterprises,Males,33900,35100,35780
+,,,Females,,,
+,,local government,Males,15100,15400,15580
+,,,Females,,,
+,,central government,Males,33000,34300,35610
+,,,Females,,,
+7511,"Butchers, fishmongers and related food preparers",private sector and public enterprises,Males,31700,31000,33540
+,,,Females,26500,26800,28080
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7512,"Bakers, pastry-cooks and confectionery makers",private sector and public enterprises,Males,33200,34000,34790
+,,,Females,27800,28500,29060
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7522,Cabinet makers and related workers,private sector and public enterprises,Males,32700,33300,34330
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7531,"Tailors, dressmakers, furriers and hatters",private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,36700,38090
+7534,Upholsterers and related workers,private sector and public enterprises,Males,33900,34100,37010
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7541,Underwater divers,private sector and public enterprises,Males,44800,48100,46910
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7542,Shotfirers and blasters,private sector and public enterprises,Males,50200,51100,51780
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7544,Fumigators and other pest and weed controllers,private sector and public enterprises,Males,36600,38300,39370
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+7549,Craft and related workers not elsewhere classified,private sector and public enterprises,Males,,,
+,,,Females,27500,29100,29560
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8111,Miners and quarriers,private sector and public enterprises,Males,39500,39700,41640
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8113,Well drillers and borers and related workers,private sector and public enterprises,Males,56200,57200,58750
+,,,Females,49600,51900,52620
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8114,"Cement, stone and other mineral products machine operators",private sector and public enterprises,Males,35200,35900,36670
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8121,Metal processing plant operators,private sector and public enterprises,Males,35300,36100,37050
+,,,Females,32700,33800,34840
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8131,Chemical products plant and machine operators,private sector and public enterprises,Males,40900,42100,42970
+,,,Females,36400,37800,39530
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8141,Rubber products machine operators,private sector and public enterprises,Males,34100,34900,36570
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8142,Plastic products machine operators,private sector and public enterprises,Males,33400,34500,35060
+,,,Females,31200,32200,32520
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8143,Paper products machine operators,private sector and public enterprises,Males,31700,32000,33200
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8152,Weaving and knitting machine operators,private sector and public enterprises,Males,34300,35100,36030
+,,,Females,29700,30700,31910
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8153,Sewing machine operators,private sector and public enterprises,Males,,30200,29990
+,,,Females,30300,31000,32340
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8157,Laundry machine operators,private sector and public enterprises,Males,28900,30300,30540
+,,,Females,29100,30400,30920
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8160,Food and related products machine operators,private sector and public enterprises,Males,33500,34400,35650
+,,,Females,31400,32200,33410
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8171,Pulp and papermaking plant operators,private sector and public enterprises,Males,33400,34600,34940
+,,,Females,30200,30800,31960
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8172,Wood processing plant operators,private sector and public enterprises,Males,31100,32000,33100
+,,,Females,31200,31300,32060
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8181,Glass and ceramics plant operators,private sector and public enterprises,Males,33200,34300,35340
+,,,Females,32500,32200,34750
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8182,Steam engine and boiler operators,private sector and public enterprises,Males,42100,41400,43120
+,,,Females,,,
+,,local government,Males,37700,38500,39540
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8183,"Packing, bottling and labelling machine operators",private sector and public enterprises,Males,38400,39100,39890
+,,,Females,34900,35500,36310
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8211,Mechanical machinery assemblers,private sector and public enterprises,Males,36100,36500,37570
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8212,Electrical and electronic equipment assemblers,private sector and public enterprises,Males,37800,39300,40370
+,,,Females,32800,33700,34490
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8311,Locomotive engine drivers,private sector and public enterprises,Males,54100,53900,57080
+,,,Females,48400,47700,50570
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8322,"Car, taxi, van and motorcycle drivers",private sector and public enterprises,Males,30900,32000,32610
+,,,Females,29700,30300,30840
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,35100,36500,37630
+,,,Females,,,
+8331,Bus and tram drivers,private sector and public enterprises,Males,33600,34600,35520
+,,,Females,33000,34100,35250
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8332,Heavy truck and lorry drivers,private sector and public enterprises,Males,34200,35000,35720
+,,,Females,32400,33700,34220
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8341,Mobile farm and forestry plant operators,private sector and public enterprises,Males,32500,33700,34260
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8342,Earthmoving and related plant operators,private sector and public enterprises,Males,36600,37600,38600
+,,,Females,35300,35700,35990
+,,local government,Males,35200,36000,36890
+,,,Females,32600,33600,34060
+,,central government,Males,43300,45100,43430
+,,,Females,,,
+8343,"Crane, hoist and related plant operators",private sector and public enterprises,Males,39900,40300,41550
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8344,Lifting truck operators,private sector and public enterprises,Males,33400,34600,35410
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+8350,Ships¿ deck crew and related workers,private sector and public enterprises,Males,40000,40200,41240
+,,,Females,31000,31500,33890
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9111,Domestic cleaners and helpers,private sector and public enterprises,Males,,,
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9112,"Cleaners and helpers in offices, hotels and other local kinds of activity units",private sector and public enterprises,Males,31700,32100,33020
+,,,Females,31100,31500,32160
+,,local government,Males,29700,30700,31250
+,,,Females,30600,31600,32220
+,,central government,Males,31100,32000,33020
+,,,Females,30700,31500,32470
+9122,Vehicle cleaners,private sector and public enterprises,Males,30100,31100,31880
+,,,Females,,,29580
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9211,Crop farm labourers,private sector and public enterprises,Males,25100,26100,26860
+,,,Females,,26000,24180
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9212,Livestock farm labourers,private sector and public enterprises,Males,,,
+,,,Females,,,25050
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9213,Mixed crop and livestock farm labourers,private sector and public enterprises,Males,27800,27800,26380
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9214,Garden and horticultural labourers,private sector and public enterprises,Males,29200,30100,30490
+,,,Females,,,
+,,local government,Males,31500,31800,32730
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9312,Civil engineering labourers,private sector and public enterprises,Males,34600,35500,36130
+,,,Females,32500,33200,32710
+,,local government,Males,31100,31800,32540
+,,,Females,,,
+,,central government,Males,18400,18400,19280
+,,,Females,,,
+9313,Building construction labourers,private sector and public enterprises,Males,30800,31500,32370
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9321,Hand packers,private sector and public enterprises,Males,34000,33000,33220
+,,,Females,32500,32000,32430
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9329,Manufacturing labourers not elsewhere classified,private sector and public enterprises,Males,34400,35000,35920
+,,,Females,32000,32500,33580
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9333,Freight handlers,private sector and public enterprises,Males,32900,35100,36010
+,,,Females,,33400,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9334,Shelf fillers,private sector and public enterprises,Males,29700,31200,30600
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9412,Kitchen helpers,private sector and public enterprises,Males,26500,27200,27960
+,,,Females,27600,28500,29050
+,,local government,Males,,,
+,,,Females,31400,32100,32410
+,,central government,Males,,,
+,,,Females,30800,31700,32990
+9510,Street and related service workers,private sector and public enterprises,Males,29600,30400,35130
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9611,Garbage and recycling collectors,private sector and public enterprises,Males,32700,33300,35340
+,,,Females,31600,32700,33250
+,,local government,Males,34000,34700,35590
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9612,Refuse sorters,private sector and public enterprises,Males,30800,31700,32970
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9621,"Messengers, package deliverers and luggage porters",private sector and public enterprises,Males,30800,28400,30120
+,,,Females,,,
+,,local government,Males,,,
+,,,Females,,,
+,,central government,Males,,,
+,,,Females,,,
+9622,Odd job persons,private sector and public enterprises,Males,32100,32300,33220
+,,,Females,,29500,29820
+,,local government,Males,30600,30100,31340
+,,,Females,,,
+,,central government,Males,34800,35600,36800
+,,,Females,,,
+9629,Elementary workers not elsewhere classified,,,,,
